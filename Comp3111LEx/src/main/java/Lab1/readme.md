@@ -1,2 +1,1 @@
-inserting image:
 ![](C:\Users\Administrator\OneDrive - HKUST Connect\Desktop\3111Lab11st pic.png)
